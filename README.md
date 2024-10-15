@@ -10,7 +10,7 @@
 ## 팀 정보
 **프로젝트 팀:** Team Unity
 ## 팀 소개
-|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|<img src="https://i.ibb.co/SXMPP4Y/ai.png" width="150" height="150"/>|<img src="https://i.ibb.co/bLJSfvp/ai.png" width="150" height="150"/>|<img src="https://i.ibb.co/fMKjmC5/ai.png" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |유현욱<br/>팀장<br/>[@youhyunwook](https://github.com/youhyunwook)|이태훈<br/>팀원<br/>[@github](https://github.com/evelth)|유현재<br/>팀원<br/>[@git](https://github.com/git)|
 ---
