@@ -53,7 +53,7 @@
 ---
 ## 🚀 프로젝트 수행 경과
 ### 3-1. 데이터 수집
-git : <a href="https://github.com/vuthithuhuyen/A-YOLO-based-Real-time-Packaging-Defect-Detection-System"/>
+git : <a href="https://github.com/vuthithuhuyen/A-YOLO-based-Real-time-Packaging-Defect-Detection-System">링크</a>
 
 ### 3-2. 라벨링
 <img src="https://github.com/user-attachments/assets/2f216119-550b-4521-b695-a875b7df6f2d" style="width:800px;">
