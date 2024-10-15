@@ -12,7 +12,7 @@
 ## 팀 소개
 |<img src="https://i.ibb.co/SXMPP4Y/ai.png" width="150" height="150"/>|<img src="https://i.ibb.co/bLJSfvp/ai.png" width="150" height="150"/>|<img src="https://i.ibb.co/fMKjmC5/ai.png" width="150" height="150"/>|
 |:-:|:-:|:-:|
-|유현욱<br/>팀장<br/>[@youhyunwook](https://github.com/youhyunwook)|이태훈<br/>팀원<br/>[@github](https://github.com/evelth)|유현재<br/>팀원<br/>[@git](https://github.com/git)|
+|유현욱<br/>팀장<br/>[@youhyunwook](https://github.com/youhyunwook)|이태훈<br/>팀원<br/>[@evelth](https://github.com/evelth)|유현재<br/>팀원<br/>[@yoohj](https://github.com/yoohj82109)|
 ---
 ### 프로젝트 개발 계획서
 [개발 계획서.ppt](https://www.canva.com/design/DAGQbYkEdPM/6Egy3E2GeQV2gD-nlMyztg/view?utm_content=DAGQbYkEdPM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
