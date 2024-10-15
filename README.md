@@ -30,6 +30,7 @@
 - [3-1. 데이터 수집](#3-1-데이터-수집)
 - [3-2. 라벨링](#3-2-라벨링)
 - [3-3. 이미지 전처리](#3-3-이미지-전처리)
+- [3-4. 시연 화면](#3-4-시연-화면)
 
 ---
 ## 📌 프로젝트 개요 및 목표
@@ -62,6 +63,9 @@ git : <a href="https://github.com/vuthithuhuyen/A-YOLO-based-Real-time-Packaging
 
 ### 3-3. 이미지 전처리
 <img src="https://github.com/user-attachments/assets/3d824ff5-4b41-4737-90a1-889c1c1f6155" style="width:800px;">
+
+### 3-4. 시연 화면
+<img src="https://github.com/user-attachments/assets/f5c98f16-cac6-4b38-b187-98992579f7c6" style="width:800px;">
 
 [목차로 돌아가기](#목차)
 
